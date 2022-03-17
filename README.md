@@ -1,5 +1,7 @@
 # OBD2PowerBreakOut Board
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
 A simple breakout board that uses inputs from an OBD2 pigtail, and breaks them out with a series of XT30PW connectors.
 Each power channel is fuse protected with standard automotive fuses, includes an LED to for easy FUSE integrity
 checking, and selectability between 'always on' or 'only on after ignition'. The aforementioned selectability is
